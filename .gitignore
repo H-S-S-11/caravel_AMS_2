@@ -3,3 +3,7 @@
 */tmp
 */*/tmp
 *.raw
+openlane/pdm/src/sim_build
+openlane/pdm/src/results.xml
+openlane/pdm/src/__pycache__/
+*.vcd

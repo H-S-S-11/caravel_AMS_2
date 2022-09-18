@@ -4,7 +4,7 @@ set script_dir [file dirname [file normalize [info script]]]
 
 set ::env(DESIGN_NAME) "pdm_core"
 
-set ::env(VERILOG_FILES) "$::env(DESIGN_DIR)/src/pdm.v"
+set ::env(VERILOG_FILES) "$::env(DESIGN_DIR)/src/pdm_core.v"
 
 set ::env(FP_PIN_ORDER_CFG) $::env(DESIGN_DIR)/pin_order.cfg
 
