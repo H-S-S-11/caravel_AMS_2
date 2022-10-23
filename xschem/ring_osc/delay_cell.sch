@@ -1,4 +1,4 @@
-v {xschem version=3.0.0 file_version=1.2 }
+v {xschem version=3.1.0 file_version=1.2 }
 G {}
 K {}
 V {}
@@ -58,7 +58,7 @@ spiceprefix=X
 }
 C {sky130_fd_pr/pfet_01v8.sym} 960 -2210 0 0 {name=M3
 L=0.15
-W=1.5
+W=1
 nf=1
 mult=1
 ad="'int((nf+1)/2) * W/nf * 0.29'" 
